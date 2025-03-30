@@ -1,2 +1,1 @@
-# Livraria-Java
-Atividade da Matéria Tópicos em Programação
+LIVRARIA-JAVA - Atividade da Matéria Tópicos em Programação
